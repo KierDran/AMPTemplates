@@ -1,1 +1,19 @@
-[]
+[
+    {
+        "DisplayName": "Username",
+        "Category": "Server Settings",
+        "Description": "",
+        "Keywords": "username",
+        "FieldName": "loginCredentiall",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "loginCredentiall",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "",
+        "Placeholder": "",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    }
+]
