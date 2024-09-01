@@ -1,0 +1,15 @@
+[
+    {
+        "UpdateStageName": "Download Server",
+        "UpdateSourcePlatform": "All",
+        "UpdateSource": "SteamCMD",
+        "UpdateSourceData": "2519830",
+        "UpdateSourceArgs": "2519830",
+        "UpdateSourceVersion": "headless",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "ForceDownloadPlatform": "Windows",
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]
